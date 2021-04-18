@@ -1,4 +1,4 @@
-# Automobile investigtion
+# Automobile investigation
 * Simple investigation into Automobile data
 * Data cleansing techiniques: Handling missing values, sanity checks, duplicate records, entry mistakes
 * Followed by data exploration and visualisation of attribute distribution
